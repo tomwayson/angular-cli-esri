@@ -2,7 +2,7 @@
 
 @import '~@angular/material/prebuilt-themes/indigo-pink.css';
 
-@import '//fonts.googleapis.com/icon?family=Material+Icons';
+@import 'http://fonts.googleapis.com/icon?family=Material+Icons';
 
 html, body {
   height: 100%;

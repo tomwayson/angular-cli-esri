@@ -16,6 +16,10 @@ Rather than clone this repository, you should create your own application with t
 
 You should **not** use this repository as a starting point for your own application. This application was generated with an early beta of the angular-cli, and while it has been updated to v1 (thanks to [@TheKeithStewart](https://github.com/TheKeithStewart)), _I do **not** intend to keep it up to date w/ newer versions of Angular, the CLI, nor the ArcGIS API going forward_.
 
+## Running this application in Electron
+
+This example application is also setup to be used as an [Electron](https://electron.atom.io/) app.  To run inside of Electron run `npm run electron`.  For more information about what is necessary to setup an Angular CLI application to be used inside of Electron please take a look at [ng-cli-electron-esri](https://github.com/TheKeithStewart/ng-cli-electron-esri).
+
 ## Running this application
 
 You can clone or download this application and then use the instructions below to run it and/or the tests to get a better sense of how it works.
